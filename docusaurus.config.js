@@ -5,7 +5,7 @@ const config = {
   title: 'Vela',
   tagline: "Vela Documentation",
   url: 'https://botlhale-ai.github.io/vela-docs/', 
-  baseUrl: '/vela-docs/',
+  baseUrl: 'vela-docs/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: '/img/favicon.ico',
