@@ -5,12 +5,12 @@ const config = {
   title: 'Vela',
   tagline: "Vela Documentation",
   url: 'https://botlhale-ai.github.io/vela-docs/', 
-  baseUrl: 'https://botlhale-ai.github.io/vela-docs/',
+  baseUrl: '/vela-docs/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: '/img/favicon.ico',
   organizationName: 'botlhale-ai', 
-  projectName: 'madlalakhaya25.github.io', 
+  projectName: 'vela-docs', 
   deploymentBranch: 'gh-pages', 
 
   presets: [
