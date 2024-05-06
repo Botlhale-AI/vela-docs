@@ -3,15 +3,15 @@ import { themes as prismThemes } from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Vela',
-  tagline: "Vela Documentation",
+  tagline: "Documentation",
   url: 'https://botlhale-ai.github.io/vela-docs/', 
-  baseUrl: 'vela-docs/',
+  baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: '/img/favicon.ico',
   organizationName: 'botlhale-ai', 
   projectName: 'vela-docs', 
-  deploymentBranch: 'gh-pages', 
+  deploymentBranch: 'main', 
 
   presets: [
     [
