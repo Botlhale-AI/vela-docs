@@ -10,7 +10,7 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: '/img/favicon.ico',
   organizationName: 'botlhale-AI', 
-  projectName: 'vela-docs', 
+  projectName: 'botlhale-ai.github.io/vela-docs', 
   deploymentBranch: 'main', 
   trailingSlash: false,
 
