@@ -4,7 +4,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 const config = {
   title: 'Vela',
   tagline: "Documentation",
-  url: 'https://botlhale-ai.github.io/vela-docs', 
+  url: 'https://docs-vela.botlhale.xyz/', 
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
@@ -20,11 +20,11 @@ const config = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/madlalakhaya25/madlalakhaya25.github.io/edit/main/docs/',
+          editUrl: '/',
         },
         blog: {
           showReadingTime: true,
-          editUrl: 'https://github.com/madlalakhaya25/madlalakhaya25.github.io/edit/main/blog/',
+          editUrl: '/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
