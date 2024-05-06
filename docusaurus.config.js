@@ -3,13 +3,13 @@ import { themes as prismThemes } from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Vela',
-  tagline: "The Botlhale NLP Toolkit",
-  url: 'https://madlalakhaya25.github.io', 
+  tagline: "Vela Documentation",
+  url: 'https://botlhale-ai.github.io/vela-docs/', 
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'favicon.ico',
-  organizationName: 'madlalakhaya25', 
+  organizationName: 'botlhale-ai', 
   projectName: 'madlalakhaya25.github.io', 
   deploymentBranch: 'gh-pages', 
 
