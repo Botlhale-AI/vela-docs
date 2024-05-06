@@ -11,6 +11,7 @@ const config = {
   favicon: '/img/favicon.ico',
   organizationName: 'botlhale-ai', 
   projectName: 'vela-docs', 
+  deploymentBranch: 'main', 
 
   presets: [
     [
