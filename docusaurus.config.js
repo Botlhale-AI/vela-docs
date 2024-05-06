@@ -4,13 +4,13 @@ import { themes as prismThemes } from 'prism-react-renderer';
 const config = {
   title: 'Vela',
   tagline: "Documentation",
-  url: 'https://botlhale-ai.github.io', 
+  url: 'https://botlhale-ai.github.io/', 
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: '/img/favicon.ico',
   organizationName: 'botlhale-ai', 
-  projectName: 'vela-docs', 
+  projectName: 'botlhale-ai.github.io', 
   deploymentBranch: 'main', 
 
   presets: [
